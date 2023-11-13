@@ -13,9 +13,19 @@ table, th, td {
 
 ul {
 	list-style-type: square;
+
 }
 
 .hyperLink:hover {
 	background-color: yellow;
 	text-decoration: none;
+}
+
+blockquote {
+	background-color: brown;
+	color: green;
+}
+
+#checkbox-grid {
+	list-style-type: none;
 }
