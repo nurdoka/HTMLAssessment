@@ -1,0 +1,16 @@
+.subjectHeader {
+	color: blue;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+table, th, td {
+  border: 1px solid;
+  text-align: center;
+}
+
+ul {
+	list-style-type: square;
+}
